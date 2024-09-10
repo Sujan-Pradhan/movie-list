@@ -183,7 +183,7 @@ body {
   gap: 0.8rem;
 }
 
-/* .btn-delete {
+.btn-delete {
   position: absolute;
   right: 2.4rem;
 
@@ -197,11 +197,11 @@ body {
   font-weight: bold;
   cursor: pointer;
   transition: all 0.3s;
-} */
+}
 
-/* .btn-delete:hover {
+.btn-delete:hover {
   background-color: var(--color-red-dark);
-} */
+}
 
 /* ******* */
 .summary {
@@ -285,7 +285,7 @@ body {
   gap: 2.4rem;
 }
 
-/* .btn-add {
+.btn-add {
   background-color: var(--color-primary);
   color: var(--color-text);
   border: none;
@@ -295,11 +295,11 @@ body {
   font-weight: bold;
   cursor: pointer;
   transition: all 0.3s;
-} */
+}
 
-/* .btn-add:hover {
+.btn-add:hover {
   background-color: var(--color-primary-light);
-} */
+}
 
 /* .seconds {
   background-color: var(--color-background-100);
